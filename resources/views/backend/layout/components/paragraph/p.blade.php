@@ -1,0 +1,1 @@
+<p class="lead g-mb-5 g-mb-0--md {{$ccase}} text-{{$position}} g-color-{{$color}}">{{$title}}</p>
